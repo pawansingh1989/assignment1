@@ -1,3 +1,4 @@
 master code
 new complex feature1 added
 new complex feature2 added
+bug fix
