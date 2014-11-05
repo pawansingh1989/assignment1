@@ -1,4 +1,4 @@
 master code
 complex modification started
 bug fix
-complex modification started
+complex modification ended
