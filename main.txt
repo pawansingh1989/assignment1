@@ -2,3 +2,11 @@ master code
 modification started
 bug fix
 modification ended
+complex modification started
+bug fix
+complex modification ended
+new feature 1 added
+new feature 2 added
+new complex feature1 added
+new complex feature2 added
+bug fix
